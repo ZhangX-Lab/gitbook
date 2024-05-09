@@ -46,34 +46,5 @@ Here are a couple of example overviews from products with really great docs:
 | `name` | string | Name of the user |
 | `age`  | number | Age of the user  |
 
-**Response**
 
-{% tabs %}
-{% tab title="200" %}
-```json
-{
-  "id": 1,
-  "name": "John",
-  "age": 30
-}
-```
-{% endtab %}
-
-{% tab title="400" %}
-```json
-{
-  "error": "Invalid request"
-}
-```
-{% endtab %}
-{% endtabs %}
-
-
-
-| 11   | 55     | 66 | 77 |
-| ---- | ------ | -- | -- |
-| 11   | 312    |    |    |
-| 111  | 231cdc |    |    |
-| 1111 | ccc    |    |    |
-|      |        |    |    |
 
