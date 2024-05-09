@@ -1,3 +1,7 @@
+---
+description: 描述这次改变
+---
+
 # 😄 README
 
 ## Overview
@@ -28,9 +32,7 @@ Here are a couple of example overviews from products with really great docs:
 >
 > — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+
 
 ## Quick links
 
