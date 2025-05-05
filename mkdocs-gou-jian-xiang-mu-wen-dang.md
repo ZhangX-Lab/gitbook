@@ -1,4 +1,4 @@
-# ❤️ mkdocs构建项目文档
+# mkdocs构建项目文档
 
 首先，安装mkdocs，这是一个Python模块，因此，使用miniconda构建对应的虚拟环境，在安装mkdocs库。
 
@@ -20,13 +20,13 @@ mkdocs serve
 
 > 注：需要保证本地项目名称和远程名称名字是一致的，不然不能自动部署。
 
-<figure><img src="../.gitbook/assets/image-20250505182759834.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image-20250505182759834.png" alt=""><figcaption></figcaption></figure>
 
 成功之后，如下所示：
 
-<figure><img src="../.gitbook/assets/image-20250505182811035.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image-20250505182811035.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image-20250505182903436.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image-20250505182903436.png" alt=""><figcaption></figcaption></figure>
 
 参考：[开始使用-Mkdom --- Getting Started - MkDocs](https://www.mkdocs.org/getting-started/)
 
